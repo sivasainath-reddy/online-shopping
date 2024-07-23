@@ -43,7 +43,7 @@ a{
     color: black;
 }
 .containerbanner{
-    background-image:url(../Asset/hero/h1_hero.jpg) ;
+    background-image:url(h1_hero.jpg) ;
 }
 #text{
     margin-top: 125px;
