@@ -43,7 +43,7 @@ a{
     color: black;
 }
 .containerbanner{
-    background-image:url(../../Fashion-Online-Shopping/Fashion-Online-Shopping/Asset/hero/h1_hero.jpg) ;
+    background-image:url(../Asset/hero/h1_hero.jpg) ;
 }
 #text{
     margin-top: 125px;
