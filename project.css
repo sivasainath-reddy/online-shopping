@@ -1,0 +1,178 @@
+ .right ul a{
+    color: white;
+}
+#nav1{
+    justify-content: space-between;
+    background: black;
+    color: white;
+}
+#nav1 span{
+    margin-left: 30px;
+}
+#nav1 img{
+    margin-left: 10px; 
+    height: 20px;
+}
+#shop,.form-control{
+    border-radius: 25px;
+}
+#mag{
+    margin-left: -25px;
+    margin-top: 15px;
+    padding: 0%;
+    margin-right: 30px;
+}
+i{
+    margin-top: 5px;
+}
+#tools{
+    border-radius: 50% ;
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+    margin-right: 30px;
+}
+ul li{
+    padding: 0px 20px 0px 20px;
+    list-style: none;
+    margin-top: 10px;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.containerbanner{
+    background-image:url(../../Fashion-Online-Shopping/Fashion-Online-Shopping/Asset/hero/h1_hero.jpg) ;
+}
+#text{
+    margin-top: 125px;
+}
+#text #p1{
+    color: #007bff; 
+    font-family:cursive; 
+    font-style:italic; 
+    font-size: 40px;
+}
+#text h1{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold; 
+    font-size: 100px;
+}
+#text #p2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+}
+#h2{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 50px; 
+    font-weight: bolder; 
+    text-align: center; 
+    margin-top: 100px; 
+    margin-bottom: 50px;
+}
+#Women{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder; 
+    font-size: 30px; 
+    margin-left: 220px; 
+    margin-top: 50px;
+}
+#women-btn{
+    background: yellow;
+    color: black;
+    border-color: yellow; 
+    margin-left: 220px;
+}
+#women-p{
+    font-family: cursive;
+    font-style: italic;
+    text-shadow: 0px -5px 0px white; 
+    font-weight: bolder; 
+    margin-top: -15px; 
+    font-size: 20px; 
+    margin-left: 220px; 
+    color: #007bff;
+}
+#discount{
+    font-family: cursive;
+    font-style: italic;
+    text-shadow: 0px -5px 0px white; 
+    font-weight: bolder; 
+    margin-top: 50px; 
+    font-size: 20px; 
+    margin-left: 220px; 
+    color: #007bff;
+}
+#winter{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder; 
+    font-size: 30px; 
+    margin-left: 180px; 
+    margin-top: -20px;
+}
+#new{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    margin-left: 220px; 
+    margin-top: -15px;
+}
+#man{
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder; 
+    font-size: 30px; 
+    margin-left: 200px; 
+    margin-top: 50px;
+}
+.hot{
+    position: absolute;
+    background-color:#ff1c51;
+    color: white;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-top: -5px;
+    margin-left: 230px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    height: 20px;
+    width:45px;
+    text-align: center;
+    justify-content: center;
+}
+.badge{
+    background-color: #00b0fe;
+    color:white;
+    height:20px;
+    width:20px;
+    margin-top: -5px;
+    border-radius: 12px;
+    font-size: 10px;
+    margin-left: -45px;
+    justify-content: center;
+}
+.new{
+    position: absolute;
+    background-color:#ff1c51;
+    color: white;
+    border-radius: 15px;
+    font-size: 12px;
+    margin-top: 20px;
+    height: 20px;
+    width:45px;
+    text-align: center;
+    justify-content: center;
+}
+.manz{
+    position: absolute;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.1); 
+    transform: rotate(-90deg); 
+    margin-top: 350px;
+    margin-left: 30px;
+}
+@media only screen and (max-width:700px) {
+   #img{
+    display: flex ;    
+    flex-wrap: wrap;
+   }
+}
